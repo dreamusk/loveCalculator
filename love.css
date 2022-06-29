@@ -1,0 +1,17 @@
+body{
+    /* background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)), url('https://www.wallpaperflare.com/ana-de-armas-celebrity-blade-runner-2049-our-queen-ana-perfect-woman-wallpaper-gjdeq');*/
+    background-image: url('anade.jpg'); 
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+    position: relative;
+   }
+   header{
+    width: 100%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+   }
